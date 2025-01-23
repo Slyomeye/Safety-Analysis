@@ -3,3 +3,6 @@ I developed a comprehensive project in Excel, creating multiple dashboards and t
 
 ## Project Objective											
 The data is aimed at providing insights and recommendations to improve a safe working environment, reduce hazards and costs. By analyzing the data, informed decisions are made
+
+## Data Used
+-<a href= "https://github.com/Slyomeye/Safety-Analysis-Dashboard/blob/main/Safety%20Dataset.xlsx">Dataset</a> 
