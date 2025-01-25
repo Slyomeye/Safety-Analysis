@@ -21,7 +21,7 @@ Made sure data is consistent and clean with respect to data type, data format an
 Created pivot tables according to questions asked.
 Merged all pivot tables into one dashboard and applied slicer to make it dynamic.
 
-View Dashboard https: -<a href= "https://github.com/Slyomeye/Safety-Analysis-Dashboard/blob/main/Slide1.JPG">Dashboard</a>
+
 View Dashboard  -<a href= "https://github.com/Slyomeye/Safety-Analysis-Dashboard/blob/main/Slide1.JPG">Dashboard</a>
 
 ## Project Insight
@@ -30,3 +30,6 @@ The number of days lost was also minimized. The adult age group (25-34) had more
 Florida had the most incident cost in the present year compared to the previous year.
 The maintenance department had the most incident cost in the present year compared to previous year.
 The most incident type was fall/trip and has maintained a high amount which is a worrying issue that needs to be corrected.
+
+## Conclusion
+To further reduce costs at all the plants, Safety meetings should be conducted on regular basis. The most occuring incident (fall/trip) should be addressed and taken very seriously, Rules and measures regarding wet grounds should be made. Orienting of both old and new staff regularly on importance of safety. Adequate Personal Protective Equipments (PPE) should be made available and given to workers for use. Strict measures regarding safety should be taken regarding safety tools, work environment and Personal Protective Equipment (PPE) and defaulters not complying to these measures should be penalized.
