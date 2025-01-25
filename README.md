@@ -21,7 +21,7 @@ Made sure data is consistent and clean with respect to data type, data format an
 Created pivot tables according to questions asked.
 Merged all pivot tables into one dashboard and applied slicer to make it dynamic.
 
-
+View Dashboard https: -<a href= "https://github.com/Slyomeye/Safety-Analysis-Dashboard/blob/main/Slide1.JPG">Dashboard</a>
 View Dashboard  -<a href= "https://github.com/Slyomeye/Safety-Analysis-Dashboard/blob/main/Slide1.JPG">Dashboard</a>
 
 ## Project Insight
